@@ -1,7 +1,13 @@
-# final_project
-intro to data science <br>
-part 1: probability <br>
-part 2: Programming exercises in Python <br>
-part 3: Machine Learning: <br>
-        3a. classification <br>
-        3b. regression 
+# ml_models
+### intro to data science <br>
+this project have 2 parts:
+* classification <br>
+* regression <br>
+
+The goal is to produce a notebook with the presentation of the DATA, selection of the relevant properties and construction of the model.
+#### models:
+* KNN
+* Logistic regression
+* linear regression
+       
+        
